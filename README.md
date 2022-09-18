@@ -1,5 +1,7 @@
 # Olá, mundo!
 
-Este é meu primeiro arquivo para estudo GITHUB.
+Este é meu primeiro arquivo para estudo github.
 
 ## Sejam bem-vindes.
+
+Mais conteúdos em breve.
